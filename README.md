@@ -9,7 +9,9 @@
 Скачать [PhantomJS](http://phantomjs.org/)
 #### Linux:
 Стандарт: /путь/до/autobump.js repeat <URL треда> <сообщение>
+
 Пердоля: /путь/до/autobump.js antiperdolya <URL треда>
 #### Windows:
 Стандарт: phantomjs.exe путь/до/autobump.js repeat <URL треда> <сообщение>
+
 Пердоля:  phantomjs.exe путь/до/autobump.js antiperdolya <URL треда>
