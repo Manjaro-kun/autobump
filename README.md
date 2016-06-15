@@ -6,7 +6,7 @@
 Так что рвись жопка большая и маленькая. Поехали!
 
 # Как использовать
-Скачать [PhantomJS](http://phantomjs.org/)
+Скачать и установить [PhantomJS](http://phantomjs.org/)
 #### Windows/Linux:
 Стандарт: phantomjs путь/до/autobump.js repeat \<URL треда> \<сообщение>
 
