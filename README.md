@@ -8,6 +8,6 @@
 # Как использовать
 Скачать [PhantomJS](http://phantomjs.org/)
 #### Windows/Linux:
-Стандарт: phantomjs путь/до/autobump.js repeat <URL треда> <сообщение>
+Стандарт: phantomjs путь/до/autobump.js repeat \<URL треда> \<сообщение>
 
-Антипердоля: phantomjs путь/до/autobump.js antiperdolya <URL треда>
+Антипердоля: phantomjs путь/до/autobump.js antiperdolya \<URL треда>
